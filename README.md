@@ -67,7 +67,7 @@ React-Facts-Site/
 
 ## 🔗 Live Demo
 
-[Check out the live demo](https://xMarioOP.github.io/react-fact-site)
+[Check out the live demo](https://xMarioOP.github.io/react-fact-site/)
 
 ## 🙌 Acknowledgments
 
