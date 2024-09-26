@@ -50,7 +50,7 @@ This app includes a simple dark mode functionality using React's `useState` hook
 - Using Vite for fast project setup and hot module replacement (HMR).
 
 ## 📁 Project Structure
-
+```
 React-Facts-Site/
 ├── public/
 ├── src/
@@ -63,6 +63,7 @@ React-Facts-Site/
 │   └── images/
 ├── package.json
 └── vite.config.js
+```
 
 
 ## 🔗 Live Demo
